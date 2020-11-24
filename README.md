@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ueverton-oliveira)](https://github.com/Lucasdfg07)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ueverton-oliveira-78a81113b/)
+[![Whatsapp Badge](https://api.whatsapp.com/send?phone=5567992269670&text=%20Hi%20there%20%F0%9F%91%8B)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucassiqueirafernandes07@gmail.com)](mailto:ueverton.souz@gmail.com)
+
+
+- Thanks for visiting. 
+- Enjoy it!! o/
