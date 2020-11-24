@@ -1,17 +1,16 @@
-### Hi there 👋
+
 <img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
 
 # Welcome!
-## I'm Lucas! Let me present a little about myself :D
+## I'm Ueverton! Let me present a little about myself :D
 
-Full-Stack focused in Ruby on Rails | Software engineer :robot:
-
-Writer on OneBitCode Blog :man_technologist:
+Full-Stack focused in Ruby on Rails | Software engineer
 
 Lover of Technology and coding :heart:
 
 <!--
+### Hi there 👋
 **Ueverton-oliveira/Ueverton-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
