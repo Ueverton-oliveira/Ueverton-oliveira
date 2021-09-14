@@ -1,7 +1,7 @@
 
 
 
-# Welcome!
+# Welcome!👋
 ## I'm Ueverton! Let me present a little about myself :D
 
 Full-Stack focused in Ruby on Rails | Software engineer
